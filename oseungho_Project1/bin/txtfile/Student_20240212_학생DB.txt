@@ -1,0 +1,17 @@
+이름,나이,전화번호,이메일,학번
+오승호,26,010-1111-2222,OSH@ICT.ACADEMY,2017학번
+오승호,26,010-1111-2222,osh@gmail.com,2017학번
+가학생,26,010-1111-111,gastudent@naver.com,2017학번
+나학생,30,010-1111-1111,ICTACADEMY@naver.com,2019학번
+다학생,26,010-1111-1111,dastudent@naver.com,2017학번
+라학생,22,010-1234-1111,rastudent@naver.com,2021학번
+마학생,28,010-1234-1111,mastudent@naver.com,2015학번
+바학생,21,010-1234-1111,bastudent@naver.com,2022학번
+사학생,20,010-1234-1111,sastudent@naver.com,2023학번
+아학생,24,010-1234-1111,oastudent@naver.com,2019학번
+자학생,26,010-1234-1111,jastudent@naver.com,2017학번
+차학생,29,010-1234-1111,chastudent@naver.com,2014학번
+카학생,29,010-1234-1111,castudent@naver.com,2014학번
+타학생,26,010-1234-1111,tastudent@naver.com,2017학번
+파학생,24,010-1234-1111,pastudent@naver.com,2019학번
+하학생,26,010-1234-1111,hastudent@naver.com,2017학번
